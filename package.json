@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "react-native-xmpp@1.0.0-beta.2",
+      "/Users/boblennon/VND/Project/stockbookapp"
+    ]
+  ],
+  "_from": "react-native-xmpp@1.0.0-beta.2",
+  "_id": "react-native-xmpp@1.0.0-beta.2",
+  "_inBundle": false,
+  "_integrity": "sha512-dyqWgZOYeB3bxIE4rCJWsP6ZGZkmA+BFHXbiMFNgoknAbU2CI6vcwLRVu83cgY7MvO2TuF/fQrXIL6tjWkM6qA==",
+  "_location": "/react-native-xmpp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-xmpp@1.0.0-beta.2",
+    "name": "react-native-xmpp",
+    "escapedName": "react-native-xmpp",
+    "rawSpec": "1.0.0-beta.2",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0-beta.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-xmpp/-/react-native-xmpp-1.0.0-beta.2.tgz",
+  "_spec": "1.0.0-beta.2",
+  "_where": "/Users/boblennon/VND/Project/stockbookapp",
+  "author": {
+    "name": "Pavlo Aksonov"
+  },
+  "bugs": {
+    "url": "https://github.com/aksonov/react-native-xmpp/issues"
+  },
+  "description": "XMPP Library for React Native",
+  "homepage": "https://github.com/aksonov/react-native-xmpp",
+  "keywords": [
+    "xmpp",
+    "react-native",
+    "xmppframework"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-xmpp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksonov/react-native-xmpp.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0-beta.2"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/boblennon/VND/Project/stockbookapp/js/lib/react-native-xmpp/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/boblennon/.android/build-cache/1417b401cc9a56d00c73d01342de50bea91e3518/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/boblennon/VND/Project/stockbookapp/js/lib/react-native-xmpp/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/boblennon/.android/build-cache/1417b401cc9a56d00c73d01342de50bea91e3518/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/boblennon/VND/Project/stockbookapp/js/lib/react-native-xmpp/android/src/main/assets"/><source path="/Users/boblennon/VND/Project/stockbookapp/js/lib/react-native-xmpp/android/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/boblennon/VND/Project/stockbookapp/js/lib/react-native-xmpp/android/src/release/assets"/></dataSet></merger>
